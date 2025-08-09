@@ -1,4 +1,5 @@
-# Core LangChain libraries
+streamlit
+python-dotenv
 langchain
 langchain-core
 langchain-openai
@@ -7,21 +8,13 @@ langchain-google-genai
 langchain-huggingface
 langchain-community
 
-# AI / Models
 openai
 google-generativeai
 transformers
 huggingface-hub
 
-# Environment variable management
-python-dotenv
-
-# Machine learning utilities
 numpy
 scikit-learn
-
-# PDF reading
 PyPDF2
-
-# Web app framework
-streamlit
+beautifulsoup4
+requests
